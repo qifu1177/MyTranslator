@@ -1,4 +1,5 @@
-#Data protection
+Data protection
+
 We are committed to protecting your personal data and respecting your privacy. This privacy policy explains how our translation software handles your data and the measures we take to ensure its security.
 1. Data Collected:
 Our software has the ability to extract text from snapshots for translation purposes. However, we do not collect personal data unless it is part of the extracted text.
